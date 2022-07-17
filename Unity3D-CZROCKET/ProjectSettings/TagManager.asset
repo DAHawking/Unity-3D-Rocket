@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Planet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - MiniaturePlanets
+  - 
+  - Planets
+  - 
+  - MyRaycast
+  - FunctionImage
+  - FunctionImage_x
+  - FunctionImage_y
+  - FunctionImage_z
+  - FunctionImage_vx
+  - FunctionImage_vy
+  - FunctionImage_vz
+  - FunctionImage_Pitch
+  - FunctionImage_Yaw
+  - FunctionImage_Mass
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
